@@ -6,4 +6,6 @@
 
 `string_value`: parse and test string
 
+`number_value`: parse and test number (int or double)
+
 [References](https://sourceforge.net/projects/cjson/)
