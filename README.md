@@ -8,4 +8,6 @@
 
 `number_value`: parse and test number (int or double)
 
+'array_value': parse and test array object
+
 [References](https://sourceforge.net/projects/cjson/)
