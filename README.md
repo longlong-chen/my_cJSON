@@ -10,4 +10,6 @@
 
 `array_value`: parse and test array object
 
+`object_value`: parse and test object type
+
 [References](https://sourceforge.net/projects/cjson/)
